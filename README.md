@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sohom Ghosh
 ===================================================================================================================================
 
-Web Developer and designer
---------------------------
+Web Developer and App Developer , Data Analyst and Designer 
+-----------------------------------------------------------
 
 I am B.Tech CSE student . I am a full stack web development. I am really passionate in learning New Technologies that are coming up. Also i am learning to make games , apart from this i also know Android Application developement Using React Native and Expo Cli.
 

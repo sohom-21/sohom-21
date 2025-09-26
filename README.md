@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and designer
 --------------------------
 
-I am B.Tech CSE student . I am a full stack web development. I am really passionate in learning New Technologies that are coming up. Also i am learning to make games , apart from this i also know Android Application developement Using React Native and Expo Cli.
+I am B.Tech CSE Graduate . I am a full stack web development. I am really passionate in learning New Technologies that are coming up. Also i am learning to make games , apart from this i also know Android Application developement Using React Native and Expo Cli.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sohom.official21@gmail.com](mailto:sohom.official21@gmail.com)

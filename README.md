@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sohom+Ghosh;Creative+Web+Developer;Cyber+Security+Enthusiast;Embedded+Systems+Developer;Android+App+Developer;Building+3D+Web+Experiences;Building+Full+Ecosystems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sohom+Ghosh;Creative+Web+Developer;Cyber+Security+Enthusiast;Embedded+Systems+Developer;Android+App+Developer;Building+3D+Experiences;Building+Full+Ecosystems" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/sohom-21">
